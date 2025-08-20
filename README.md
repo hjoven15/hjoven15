@@ -3,6 +3,7 @@
 🎓 Estudiante de **Ingeniería de Software (5.º semestre)**  
 💻 Fuerte en **backend (.NET, SQL, Azure)** y en camino a **full-stack**  
 🌱 Actualmente aprendiendo **React y Angular**  
+💡 Apasionado por crear soluciones escalables en la nube y con interés en **arquitectura de software**   
 
 ---
 
@@ -26,9 +27,17 @@
 ---
 
 ## 📊 Estadísticas
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=hjoven15&show_icons=true&theme=default&hide_title=true&hide=issues)
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=hjoven15&show_icons=true&theme=tokyonight&hide_title=true&hide=issues)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjoven15&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Enlaces de interés
+- [⚙️ Configuraciones para Visual Studio Code](https://www.youtube.com/watch?v=uyEUVgNMvGI&t=1s)  
+- [📚 Curso React.JS (YouTube)](https://youtu.be/7iobxzd_2wY?si=ijxw9zLrZR60Xg-i)  
 
 ---
 
 ## 📫 Contacto
-hh.joven15@ciaf.edu.co
+- 🌐 [LinkedIn](https://www.linkedin.com/in/haminton-joven-cano/)  
+- 📧 hh.joven15@ciaf.edu.co 
