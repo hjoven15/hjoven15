@@ -26,9 +26,9 @@
 
 ---
 
-## 📊 Estadísticas
-![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=hjoven15&show_icons=true&theme=tokyonight&hide_title=true&hide=issues)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjoven15&layout=compact&theme=tokyonight)
+## 📊 Estadísticas GitHub
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=hjoven15&show_icons=true&theme=tokyonight&hide_title=true&hide=issues)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=hjoven15&layout=compact&theme=tokyonight)
 
 ---
 
